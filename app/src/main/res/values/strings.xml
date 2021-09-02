@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MoviesApp</string>
+    <string name="edit_text_search">Buscar película</string>
+    <string name="btn_view_movie">Ver detalle</string>
+    <string name="btn_view_comments">Ver comentarios</string>
+    <string name="generic_message_progress">Por favor espere…</string>
+    <string name="generic_error">Ha ocurrido un error inesperado</string>
+    <string name="accept">Aceptar</string>
+    <string name="list_is_empty">La lista esta vacia</string>
+    <string name="title_movie">Title</string>
+    <string name="description_movie">Description</string>
+    <string name="description_label">Descripción</string>
+    <string name="vote_average_label">Votación promedio</string>
+    <string name="release_date_label">Fecha</string>
+    <string name="popularity_label">Popularidad</string>
+</resources>

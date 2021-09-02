@@ -1,0 +1,5 @@
+rootProject.name = "MoviesApp"
+include ':app'
+include ':dataaccess'
+include ':interactors'
+include ':services'
